@@ -1,0 +1,40 @@
+.moveToTop {
+    -webkit-animation: toTop .3s ease both;
+    -moz-animation: toTop .3s ease both;
+    -ms-animation: toTop .3s ease both;
+    -o-animation: toTop .3s ease both;
+    animation: toTop .3s ease both;
+}
+
+@-webkit-keyframes toTop {
+    from { }
+    to { top:0px; }
+}
+@-moz-keyframes toTop {
+    from { }
+    to { top:0px; }
+}
+@-ms-keyframes toTop {
+    from { }
+    to { top:0px; }
+}
+@-o-keyframes toTop {
+    from { }
+    to { top:0px; }
+}
+
+
+    to { top:1008px; }
+}
+@-ms-keyframes toBottom {
+    from { }
+    to {top:1008px; }
+}
+@-o-keyframes toBottom {
+    from { }
+    to {top:1008px;  }
+}
+
+
+
+
